@@ -1,0 +1,37 @@
+#main {
+  background-color: whitesmoke;
+  text-align: center;
+}
+
+#title {
+  padding: 30px 0px 10px 0px;
+}
+
+#img-div {
+  background-color: white;
+  margin: 0 10px;
+}
+
+#tribute-info {
+  padding: 30px 500px 10px 500px;
+  text-align: left;
+  -ms-text-size-adjust: auto;
+}
+#link {
+  font-weight: bold;
+}
+
+#tribute-info h2 {
+  text-align: center;
+}
+
+#tribute-info ul li {
+  margin: 30px;
+}
+
+#tribute-info cite {
+  padding: 30px;
+}
+#tribute-link {
+  text-decoration: none;
+}
